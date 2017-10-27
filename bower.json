@@ -1,0 +1,6 @@
+{
+  "name": "echarts",
+  "homepage": "https://github.com/ecomfe/echarts",
+  "version": "3.2.3",
+  "main":["jeDate3.8.2/jeDate/echarts.min.js","jeDate3.8.2/jeDate/echarts.min.js"]
+}
